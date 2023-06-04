@@ -1,5 +1,5 @@
 <img align="right"  alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
-<h1 align="center">Hi 👋, Tech Wizards</h1>
+<h1 align="center">Hi 👋 Tech Wizards!</h1>
 <h3 align="center">I'm a passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfatima1010&label=Profile%20views&color=0e75b6&style=flat" alt="mfatima1010" /> </p>
